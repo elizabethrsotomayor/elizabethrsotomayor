@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elizabethrsotomayor
-- 👀 I’m interested in ... web development, SaaS, IoT, MERN stack, self-learning
+- 👀 I’m interested in ... web development, SaaS, IoT, MERN stack, Web 3.0, self-learning
 - 🌱 I’m currently learning ... React.js, Node.js, Python
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... GitHub/Twitter
